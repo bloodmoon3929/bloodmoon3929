@@ -1,4 +1,8 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=환영합니다.)
+
+</div>
 
 <div align="center">
 
@@ -28,8 +32,11 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 
+---
+
+## 🏆 Solved.ac Profile  
+<a href="https://solved.ac/gnbupi/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gnbupi">
+</a>
+
 </div>
-
-<br>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gnbupi)](https://solved.ac/gnbupi/)
